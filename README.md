@@ -6,7 +6,7 @@
 ```javascript
 const Flavio = {
   code: [HTML, CSS, JAVASCRIPT, JAVA, SQL],
-  tools: [Bootstrap, Vue.js, Springboot, PostgreSQL, Git, Github],
+  tools: [Bootstrap, Vue.js, Springboot, SQL, Git, Github],
   skills: {
            Puntuality: 10,
            Empathy: 10,
